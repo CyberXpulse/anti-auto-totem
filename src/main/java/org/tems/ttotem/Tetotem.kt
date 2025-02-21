@@ -6,6 +6,7 @@ import org.tems.ttotem.Listeners.EntityResurrectListener
 import org.tems.ttotem.Listeners.InventoryClickEvent
 import org.tems.ttotem.Listeners.SwapHandListener
 import org.tems.ttotem.Punishments.FlagsPunish
+import org.tems.ttotem.Punishments.DiscordWebhook
 import java.util.*
 
 
